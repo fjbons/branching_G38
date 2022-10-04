@@ -1,0 +1,14 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Share Tech Mono', monospace;
+    scroll-behavior: smooth;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+
+  img {
+    height: 500px;
+    width: 500px;
+  }
